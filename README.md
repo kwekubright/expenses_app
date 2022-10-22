@@ -9,9 +9,8 @@
 ### Video Link
 - Here is a link to the video explaining the project [link](https://www.loom.com/share/bcb5bbd8f88848afb995e0b694c26583)
 
-## Live Demo
-
-No live demo available
+### Live
+Link [link](https://expenses-app-rails.herokuapp.com/)
 
 ### Download it as a ZIP file
 
@@ -31,8 +30,6 @@ then
 - rails server
 
 ```
-### Live
-Link [link](https://6353a7ef5b4a5e5f60b2452d--beautiful-rugelach-0b2089.netlify.app/)
 
 ## Authors
 
@@ -41,6 +38,11 @@ Link [link](https://6353a7ef5b4a5e5f60b2452d--beautiful-rugelach-0b2089.netlify.
 - GitHub: [@kwekubright](https://github.com/kwekubright)
 - Twitter: [@kwekubright_](https://twitter.com/kwekubright_)
 - LinkedIn: [Bright ahiadeke](https://www.linkedin.com/in/kwekubright/)
+
+### Acknowledgments
+
+- Much appreciated: [Gregoire Vella](https://www.behance.net/gregoirevella) the owner of the design.
+- Images: Pexels.com
 
 ## 🤝 Contributing
 
