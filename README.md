@@ -6,9 +6,6 @@
 
 - Ruby on Rails
 
-### Video Link
-- Here is a link to the video explaining the project [link](https://www.loom.com/share/bcb5bbd8f88848afb995e0b694c26583)
-
 ### Live
 Link [link](https://expenses-app-rails.herokuapp.com/)
 
